@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash the Power of Words with Innovative Solutions Tailored for You",
+        "title": "Revolutionize Your Vocabulary"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unleash the Power of Words with Innovative Solutions Tailored for You",
+        "title": "Revolutionize Your Vocabulary"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unleash the Power of Words with Innovative Solutions Tailored for You",
+        "title": "Revolutionize Your Vocabulary"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash the Power of Words with Innovative Solutions Tailored for You",
+        "title": "Revolutionize Your Vocabulary"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash the Power of Words with Innovative Solutions Tailored for You",
+        "title": "Revolutionize Your Vocabulary"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Power of Words with Innovative Solutions Tailored for You",
+        "title": "Revolutionize Your Vocabulary"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash the Power of Words with Innovative Solutions Tailored for You",
+        "title": "Revolutionize Your Vocabulary"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash the Power of Words with Innovative Solutions Tailored for You",
+        "title": "Revolutionize Your Vocabulary"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Power of Words with Innovative Solutions Tailored for You",
+        "title": "Revolutionize Your Vocabulary"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Vocabulary",
+  "subtitle": "Unleash the Power of Words with Innovative Solutions Tailored for You"
+}
